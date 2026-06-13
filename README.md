@@ -1,1 +1,1 @@
-# rlhf-gpt2
+# RLHF Fine-Tuning of GPT-2
