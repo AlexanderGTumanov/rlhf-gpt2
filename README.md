@@ -6,4 +6,4 @@ Proximal Policy Optimization (PPO) addresses this with a four-model architecture
 
 This project builds the full pipeline from scratch, with GPT-2 serving as the backbone for all models, without relying on publicly available implementations such as TRL. The models are trained on the Anthropic HH-RLHF dataset on a 32 GB Apple M1. The policy achieves a ~70% improvement in reward over the reference baseline at ~17σ significance. Trained models are available on Hugging Face:
 
-placeholder
+[https://huggingface.co/AlexanderGTumanov/rlhf-gpt2](https://huggingface.co/AlexanderGTumanov/rlhf-gpt2)
